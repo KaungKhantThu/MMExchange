@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MMExchange</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummy_text">USD</string>
+    <string name="convert_to_myan">Convert to Myanmar Currency</string>
+    <string name="dummny_amount">1300</string>
+    <string-array name="currency_array">
+        {"USD", "EUR", "GBP", "CHF", "JPY", "AUD", "INR", "PHP"};
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item>
+        <item>CHF</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>INR</item>
+        <item>PHP</item>
+    </string-array>
+</resources>
